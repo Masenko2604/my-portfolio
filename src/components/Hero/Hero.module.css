@@ -125,7 +125,7 @@
     font-size: 42px;
   }
     .container {
-      max-width: 375px;
+      max-width: 100vw;
       padding-left: 0;
       padding-right: 0;
     }
