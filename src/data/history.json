@@ -4,7 +4,8 @@
     "organization": "GoIT",
     "startDate": "August, 2023",
     "endDate": "Present",
-    "experiences": ["Three team projects", "Individual project"]
+    "experiences": ["Three team projects", "Individual project"],
+    "imageSrc": "history/go_it.png"
   },
 
   {
@@ -15,13 +16,15 @@
     "experiences": [
       "Preparation and submission of reports to regulatory authorities",
       "Specialized programs: Money S3 Office"
-    ]
+    ],
+    "imageSrc": "history/ces_k.png"
   },
   {
     "role": "Head of Production",
     "organization": "Company 'Lucks' Ukraine",
     "startDate": "May, 1998",
     "endDate": "June, 2010",
-    "experiences": ["Auditing", "Personnel Management"]
+    "experiences": ["Auditing", "Personnel Management"],
+    "imageSrc": "history/uk_r.png"
   }
 ]

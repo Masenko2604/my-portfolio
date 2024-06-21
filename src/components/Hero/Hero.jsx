@@ -1,5 +1,5 @@
-import styles from "./Hero.module.css";
-import { getImageUrl } from "../../utils";
+import styles from './Hero.module.css';
+import { getImageUrl } from '../../utils';
 
 export const Hero = () => {
   return (
@@ -14,13 +14,19 @@ export const Hero = () => {
             />
           </a>
           Development, practice, and work <br />
-          for the result are important for me.
+          for the result are important for me. Reach out if you&apos;d like to
+          learn more!
         </p>
+        <button className={styles.contact}>
+          <a href="mailto:masyenko@gmail.com" className={styles.contactBtn}>
+            Contact Me
+          </a>
+        </button>
       </div>
       <img
-        src={getImageUrl("hero/tat.png")}
-        alt="Me profile"
-        className={styles.heroImage}
+        src={getImageUrl('hero/tat.png')}
+        alt="Hero image of me"
+        className={styles.heroImg}
       />
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />

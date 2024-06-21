@@ -16,20 +16,24 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "JavaScript",
+    "title": "JS",
     "imageSrc": "skills/javascript.png"
   },
   {
     "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
+    "imageSrc": "skills/mongo.png"
   },
 
   {
-    "title": "TypeScript",
+    "title": "TS",
     "imageSrc": "skills/typescript.png"
   },
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "VITE",
+    "imageSrc": "skills/vite.png"
   }
 ]

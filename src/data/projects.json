@@ -3,30 +3,21 @@
     "title": "Magic of photography",
     "imageSrc": "projects/photo.png",
     "description": "Discover the magic of photography at our school! A site for those who want to learn this art. Real professionals work here and ready to help you!",
-    "skills": ["HTML5", "CSS3", "VITE", "GIT"],
+    "skills": ["HTML5", "CSS3"],
     "source": "https://masenko2604.github.io/magic-of-photography/"
   },
   {
     "title": "Food Boutique",
     "imageSrc": "projects/food.png",
     "description": "Welcome! With Food Boutique, you're not just subscribing to food, you're signing up for a fresher, fitter, and happier you. Do it here and now!",
-    "skills": ["HTML", "CSS", "JavaScript", "VITE", "GIT"],
+    "skills": ["HTML", "CSS", "JS"],
     "source": "https://ficefi.github.io/fson-95-project-team_2/"
   },
   {
     "title": "To Do",
     "imageSrc": "projects/todo.png",
     "description": "Set yourself up for success with the To Do App: manage your goals and tasks, set priorities, and get everything done you plan.",
-    "skills": [
-      "React",
-      "JavaScript",
-      "Node.js",
-      "MongoDB",
-      "HTML5",
-      "CSS3",
-      "VITE",
-      "GIT"
-    ],
+    "skills": ["React", "JavaScript", "Node.js", "MongoDB", "HTML5", "CSS3"],
     "source": "https://react-task-pro.vercel.app"
   }
 ]
