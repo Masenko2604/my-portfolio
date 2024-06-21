@@ -50,9 +50,11 @@
 
   transition: all 0.2s ease-in-out;
   cursor: pointer;
-  box-shadow: 0 6px 8px #6aaeed, 0 -2px 1px #7db2e4;
-
-  
+  box-shadow: 0 6px 8px #6aaeed, 0 -2px 1px #7db2e4;  
+}
+.contactBtn:hover,
+.contactBtn:focus {
+  background-color: #0e1b4d;
 }
 /* .contact {
   background: transparent;

@@ -42,7 +42,7 @@
   font-size: 25px;
   font-weight: 400;
   border-radius: 100px;
-  background: var(--color-dark);
+  background: #0e1b4d;
   padding: 2px 22px;
 }
 
@@ -51,6 +51,7 @@
   margin-top: 26px;
   display: flex;
   justify-content: space-around;
+ 
  
 }
 .button {
@@ -62,6 +63,7 @@
     margin-top: 26px;
 }
 
+
 .link {
   text-decoration: none;
   color: var(--color-text);
@@ -70,8 +72,10 @@
   border-radius: 100px;
   background: var(--color-primary);
   padding: 1px 22px;
-  font-weight: bold;
-    
-   
+  font-weight: bold;  
   
+}
+.link:hover,
+.link:focus {
+  background-color: #0e1b4d;
 }
