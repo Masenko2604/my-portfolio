@@ -1,0 +1,35 @@
+[
+  {
+    "title": "HTML5",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS3",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React.js",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node.js",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+
+  {
+    "title": "TypeScript",
+    "imageSrc": "skills/typescript.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  }
+]

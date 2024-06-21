@@ -1,0 +1,27 @@
+[
+  {
+    "role": "Student",
+    "organization": "GoIT",
+    "startDate": "August, 2023",
+    "endDate": "Present",
+    "experiences": ["Three team projects", "Individual project"]
+  },
+
+  {
+    "role": "Self-employed, accountant",
+    "organization": "CANOPUS s.r.o.",
+    "startDate": "March, 2011",
+    "endDate": "Present",
+    "experiences": [
+      "Preparation and submission of reports to regulatory authorities",
+      "Specialized programs: Money S3 Office"
+    ]
+  },
+  {
+    "role": "Head of Production",
+    "organization": "Company 'Lucks' Ukraine",
+    "startDate": "May, 1998",
+    "endDate": "June, 2010",
+    "experiences": ["Auditing", "Personnel Management"]
+  }
+]
