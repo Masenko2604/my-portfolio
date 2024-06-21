@@ -17,11 +17,11 @@ export const Hero = () => {
           for the result are important for me. Reach out if you&apos;d like to
           learn more!
         </p>
-        <button className={styles.contact}>
-          <a href="mailto:masyenko@gmail.com" className={styles.contactBtn}>
-            Contact Me
-          </a>
-        </button>
+        {/* <button className={styles.contact}> */}
+        <a href="mailto:masyenko@gmail.com" className={styles.contactBtn}>
+          Contact Me
+        </a>
+        {/* </button> */}
       </div>
       <img
         src={getImageUrl('hero/tat.png')}

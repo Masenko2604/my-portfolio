@@ -50,14 +50,15 @@
 
   transition: all 0.2s ease-in-out;
   cursor: pointer;
-  box-shadow: 0 6px 8px #a6a5ad, 0 -2px 1px #b7b6c5;
+  box-shadow: 0 6px 8px #6aaeed, 0 -2px 1px #7db2e4;
 
-  border-color: #fff;
+  
 }
-.contact {
+/* .contact {
   background: transparent;
   border-color: transparent;
-}
+  border-color: #091845;
+} */
 
 .heroImg {
   width: 34%;

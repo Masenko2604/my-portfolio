@@ -56,9 +56,9 @@
 .button {
   transition: all 0.2s ease-in-out;
     cursor: pointer;
-    box-shadow: 0 6px 8px #a6a5ad, 0 -2px 1px #b7b6c5;
-    border-radius: 15px;
-    border-color: #fff;
+    box-shadow: 0 6px 8px #6aaeed, 0 -2px 1px #7db2e4;
+    border-radius: 50px;
+    border-color: #6cb9ea;
     margin-top: 26px;
 }
 
