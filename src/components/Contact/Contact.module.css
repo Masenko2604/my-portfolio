@@ -38,6 +38,7 @@
   gap: 25px;
 }
 
+
 .link a {
   color: var(--color-text);
   text-decoration: none;
@@ -45,6 +46,12 @@
   font-weight: 400;
   letter-spacing: 1.5px;
 }
+.img:hover,
+.img:focus {
+  background-color: #0e1b4d;
+  border-radius: 50%;
+}
+
 
 @media screen and (max-width: 830px) {
   .container {
