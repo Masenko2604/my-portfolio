@@ -52,8 +52,7 @@
   cursor: pointer;
   box-shadow: 0 6px 8px #6aaeed, 0 -2px 1px #7db2e4;  
 }
-.contactBtn:hover,
-.contactBtn:focus {
+.contactBtn:hover {
   background-color: #0e1b4d;
 }
 /* .contact {
