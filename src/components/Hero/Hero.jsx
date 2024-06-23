@@ -15,9 +15,9 @@ export const Hero = () => {
           <br /> to learn more!
         </p>
 
-        {/* <a href="mailto:masyenko@gmail.com" className={styles.contactBtn}>
+        <a href="mailto:masyenko@gmail.com" className={styles.contactBtn}>
           Contact Me
-        </a> */}
+        </a>
       </div>
       <img
         src={getImageUrl('hero/tat.png')}
