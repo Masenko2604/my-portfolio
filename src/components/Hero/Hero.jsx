@@ -6,16 +6,13 @@ export const Hero = () => {
     <section className={styles.container}>
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I&apos;m Tetyana</h1>
+
+        <h2>I&apos;m a junior Full-stack developer.</h2>
         <p className={styles.description}>
-          <a href="https://git.io/typing-svg">
-            <img
-              src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=36&pause=1000&color=189CF7&random=false&width=500&height=100&lines=I'm+a+junior+Frontend+developer."
-              alt="Typing SVG"
-            />
-          </a>
           Development, practice, and work <br />
-          for the result are important for me. Reach out if you&apos;d like to
-          learn more!
+          for the result are important for me.
+          <br /> Reach out if you&apos;d like
+          <br /> to learn more!
         </p>
 
         {/* <a href="mailto:masyenko@gmail.com" className={styles.contactBtn}>
