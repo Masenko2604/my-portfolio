@@ -20,8 +20,10 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I focus on HTML5, CSS3, JS, React.js. Development, practice and
-                work for the result are important for me.
+                I focus on HTML5, CSS3, JS, React.js. In my projects I use
+                adaptive design, transformation effects, and modal windows.
+                Development, practice and work for the result are important for
+                me.
               </p>
             </div>
           </li>
