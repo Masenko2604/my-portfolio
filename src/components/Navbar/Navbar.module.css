@@ -41,6 +41,8 @@
 
 }
 
+
+
 @media screen and (max-width: 830px) {
   .navbar {
     flex-direction: column;
@@ -57,11 +59,7 @@
     z-index: 3;
   }
 
-  /* .menuBtn {
-    display: block;
-    cursor: pointer;
-  } */
-
+  
   .menuItems {
     display: none;
     flex-direction: column;
