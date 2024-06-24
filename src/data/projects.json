@@ -18,7 +18,7 @@
   {
     "title": "To Do",
     "imageSrc": "projects/todo.png",
-    "description": "Set yourself up for success with the To Do App: manage your goals and tasks, set priorities, and get everything done you plan.",
+    "description": "To Do App: manage your goals and tasks, set priorities, and get everything done you plan.",
     "skills": ["React", "JavaScript", "Node.js", "MongoDB", "HTML5", "CSS3"],
     "github": "https://github.com/VPresich/react-task-pro",
     "source": "https://react-task-pro.vercel.app"
@@ -26,7 +26,7 @@
   {
     "title": "Web Studio",
     "imageSrc": "projects/web.png",
-    "description": "WebStudio is a visual development platform that allows you to build responsive websites and web applications without writing code",
+    "description": "WebStudio is a visual development platform that allows you to build responsive websites and web applications without writing code. The first individual project.",
     "skills": ["HTML5", "CSS3"],
     "github": "https://github.com/Masenko2604/hw-06",
     "source": "https://masenko2604.github.io/hw-06/"

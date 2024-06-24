@@ -21,7 +21,7 @@
 }
 
 .title {
-  background: linear-gradient(to left, white, blue);
+  background: linear-gradient(to left, white, #189CF7FF);
   font-size: 72px;
   font-weight: 900;
   margin-bottom: 33px;
@@ -32,7 +32,7 @@
 }
 
 h2 {
-  background: linear-gradient(to right, white, blue);
+  background: linear-gradient(to right, white, #189CF7FF);
   -webkit-background-clip: text;
   color: transparent;
   margin-bottom: 15px;

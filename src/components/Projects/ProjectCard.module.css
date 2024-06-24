@@ -2,17 +2,25 @@
 
 .container {
   display: flex;
+  justify-content: center;
+  gap: 12px;
   flex-direction: column;
   border-radius: 10px;
   background: linear-gradient(180deg, rgb(28, 159, 247) 0%, #132a53 100%);
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
   width: 380px;
-  height: 720px;
+  height: 670px;
+  box-shadow: 0 6px 8px #e4edf5, 0 -2px 2px #7db2e4;
 }
 
 .image {
+  margin-top: 18px;
   margin-bottom: 26px;
+  width: 240px;
+  height: 156px;
+  margin-left: auto;
+  margin-right: auto;
   
 }
 
@@ -51,6 +59,7 @@
   margin-top: 26px;
   display: flex;
   justify-content: space-around;
+  padding-bottom: 15px;
  
  
 }
