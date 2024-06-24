@@ -4,6 +4,7 @@
     "imageSrc": "projects/photo.png",
     "description": "Discover the magic of photography at our school! A site for those who want to learn this art. Real professionals work here and ready to help you!",
     "skills": ["HTML5", "CSS3"],
+    "github": "https://github.com/Masenko2604/magic-of-photography",
     "source": "https://masenko2604.github.io/magic-of-photography/"
   },
   {
@@ -11,6 +12,7 @@
     "imageSrc": "projects/food.png",
     "description": "Welcome! With Food Boutique, you're not just subscribing to food, you're signing up for a fresher, fitter, and happier you. Do it here and now!",
     "skills": ["HTML", "CSS", "JS"],
+    "github": "https://github.com/Ficefi/project-team-1-fson95",
     "source": "https://ficefi.github.io/fson-95-project-team_2/"
   },
   {
@@ -18,6 +20,15 @@
     "imageSrc": "projects/todo.png",
     "description": "Set yourself up for success with the To Do App: manage your goals and tasks, set priorities, and get everything done you plan.",
     "skills": ["React", "JavaScript", "Node.js", "MongoDB", "HTML5", "CSS3"],
+    "github": "https://github.com/VPresich/react-task-pro",
     "source": "https://react-task-pro.vercel.app"
+  },
+  {
+    "title": "Web Studio",
+    "imageSrc": "projects/web.png",
+    "description": "WebStudio is a visual development platform that allows you to build responsive websites and web applications without writing code",
+    "skills": ["HTML5", "CSS3"],
+    "github": "https://github.com/Masenko2604/hw-06",
+    "source": "https://masenko2604.github.io/hw-06/"
   }
 ]
