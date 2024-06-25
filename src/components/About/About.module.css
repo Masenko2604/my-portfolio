@@ -80,14 +80,18 @@
 
   .aboutImage {
     display: none;
-  }
-
-  /* .aboutItems {
-    margin-top: 29px;
-  } */
+  } 
 
   .aboutItem {
     padding-left: 0;
     padding-right: 0;
   }
+}
+@media screen and (min-width: 345px) {
+  .title {
+    font-size: 24px;
+  }
+    .aboutItem p {
+      font-size: 18px;
+    }
 }
