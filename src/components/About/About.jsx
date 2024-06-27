@@ -20,10 +20,20 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I focus on HTML5, CSS3, JS, React.js. In my projects I use
+                Hello! My name is Tatyana. I&apos;m a beginner web developer. I
+                have successfully finished a course at GoIT Academy. During my
+                studies, I actively participated in team projects, which allowed
+                me to develop skills in communication, mutual assistance,
+                discipline, and collaborative programming and enjoy success. I
+                gained experience creating responsive interactive web pages and
+                developing dynamic applications in React and Redux. I am always
+                looking for new opportunities for professional growth and am
+                ready for cooperation. It&apos;s important to me to create
+                products that benefit the user.
+                {/* I focus on HTML5, CSS3, JS, React.js. In my projects I use
                 adaptive design, transformation effects, and modal windows.
                 Development, practice and work for the result are important for
-                me.
+                me. */}
               </p>
             </div>
           </li>
