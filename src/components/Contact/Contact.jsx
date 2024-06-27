@@ -11,13 +11,11 @@ export const Contact = () => {
       <ul className={styles.links}>
         <li className={styles.link}>
           <img
-            src={getImageUrl('contact/resume.png')}
+            src={getImageUrl('contact/icon-resume.png')}
             className={styles.img}
             alt="Resume icon"
           />
-          <a href="https://www.linkedin.com/in/tetyana-masyenko-3533942a5/">
-            Resume
-          </a>
+          <a href="https://masenko2604.github.io/resume/">Resume</a>
         </li>
         <li className={styles.link}>
           <img
