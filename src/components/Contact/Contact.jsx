@@ -15,7 +15,7 @@ export const Contact = () => {
             className={styles.img}
             alt="Resume icon"
           />
-          <a href="https://masenko2604.github.io/resume/">Resume</a>
+          <a href="https://resume-flax-tau.vercel.app/">Resume</a>
         </li>
         <li className={styles.link}>
           <img
