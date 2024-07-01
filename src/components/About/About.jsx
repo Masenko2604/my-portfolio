@@ -30,10 +30,6 @@ export const About = () => {
                 looking for new opportunities for professional growth and am
                 ready for cooperation. It&apos;s important to me to create
                 products that benefit the user.
-                {/* I focus on HTML5, CSS3, JS, React.js. In my projects I use
-                adaptive design, transformation effects, and modal windows.
-                Development, practice and work for the result are important for
-                me. */}
               </p>
             </div>
           </li>
