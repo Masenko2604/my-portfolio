@@ -1,9 +1,9 @@
 [
   {
-    "role": "Student",
-    "organization": "GoIT",
+    "role": "Fullstack developer",
+    "organization": "GoIT Academia",
     "startDate": "August, 2023",
-    "endDate": "Present",
+    "endDate": "2024",
     "experiences": ["Three team projects", "Individual project"],
     "imageSrc": "history/go_it.png"
   },
