@@ -12,7 +12,7 @@
     "role": "Self-employed, accountant",
     "organization": "CANOPUS s.r.o.",
     "startDate": "March, 2011",
-    "endDate": "Present",
+    "endDate": "2024",
     "experiences": [
       "Preparation and submission of reports to regulatory authorities",
       "Specialized programs: Money S3 Office"
@@ -21,10 +21,14 @@
   },
   {
     "role": "Head of Production",
-    "organization": "Company 'Lucks' Ukraine",
+    "organization": "Company 'Lucks-Service LTD' Ukraine",
     "startDate": "May, 1998",
     "endDate": "June, 2010",
-    "experiences": ["Auditing", "Personnel Management"],
+    "experiences": [
+      "Auditing",
+      "Personnel Management",
+      "Specialized programs: C1"
+    ],
     "imageSrc": "history/ukr_n.png"
   }
 ]
