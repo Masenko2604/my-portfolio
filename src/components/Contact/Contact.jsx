@@ -49,7 +49,7 @@ export const Contact = () => {
             className={styles.img}
             alt="Letter icon"
           />
-          <a href="https://covering-letter.vercel.app/">Letter</a>
+          <a href="https://covering-letter.vercel.app/">Covering letter</a>
         </li>
       </ul>
     </footer>
