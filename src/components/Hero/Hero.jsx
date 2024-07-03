@@ -7,7 +7,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I&apos;m Tetyana</h1>
 
-        <h2>I&apos;m a junior Frontend developer.</h2>
+        <h2>I&apos;m a beginner Frontend developer.</h2>
         <p className={styles.description}>
           Development, practice, and work <br />
           for the result are important for me.
