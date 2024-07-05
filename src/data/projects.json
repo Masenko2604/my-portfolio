@@ -28,7 +28,7 @@
     "imageSrc": "projects/web.png",
     "description": "WebStudio is a visual development platform that allows you to build responsive websites and web applications without writing code. The first individual project.",
     "skills": ["HTML5", "CSS3"],
-    "github": "https://github.com/Masenko2604/hw-06",
-    "source": "https://masenko2604.github.io/hw-06/"
+    "github": "https://github.com/Masenko2604/web-studio",
+    "source": "https://web-studio-delta.vercel.app/"
   }
 ]
