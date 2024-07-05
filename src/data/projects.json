@@ -26,7 +26,7 @@
   {
     "title": "Next.js-project",
     "imageSrc": "projects/next.png",
-    "description": "Next.js-project for company management.",
+    "description": "Next.js App for companies management. It helps identify failures and problems in system management.",
     "skills": ["TypeScript", "JavaScript", "Next.js", "CSS3"],
     "github": "https://github.com/Masenko2604/next-project",
     "source": "https://next-project-one-alpha.vercel.app/dashboard"
