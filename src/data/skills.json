@@ -33,6 +33,10 @@
     "imageSrc": "skills/figma.png"
   },
   {
+    "title": "Next.js",
+    "imageSrc": "skills/next.png"
+  },
+  {
     "title": "VITE",
     "imageSrc": "skills/vite.png"
   }

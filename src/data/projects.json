@@ -24,6 +24,14 @@
     "source": "https://react-task-pro.vercel.app"
   },
   {
+    "title": "Next.js-project",
+    "imageSrc": "projects/next.png",
+    "description": "Next.js-project for company management.",
+    "skills": ["TypeScript", "JavaScript", "Next.js", "CSS3"],
+    "github": "https://github.com/Masenko2604/next-project",
+    "source": "https://next-project-one-alpha.vercel.app/dashboard"
+  },
+  {
     "title": "Web Studio",
     "imageSrc": "projects/web.png",
     "description": "WebStudio is a visual development platform that allows you to build responsive websites and web applications without writing code. The first individual project.",
