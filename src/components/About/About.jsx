@@ -28,7 +28,7 @@ export const About = () => {
                 gained experience creating responsive interactive web pages and
                 developing dynamic applications in React and Redux. I am always
                 looking for new opportunities for professional growth and am
-                ready for cooperation. It&apos;s important to me to create
+                ready for cooperation. It&apos;s important for me to create
                 products that benefit the user.
               </p>
             </div>
