@@ -29,13 +29,18 @@
     "imageSrc": "skills/typescript.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
-  },
-  {
     "title": "Next.js",
     "imageSrc": "skills/next.png"
   },
+  {
+    "title": "SASS",
+    "imageSrc": "skills/sass.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+
   {
     "title": "VITE",
     "imageSrc": "skills/vite.png"
