@@ -43,14 +43,6 @@ export const Contact = () => {
           />
           <a href="https://github.com/Masenko2604">GitHub</a>
         </li>
-        <li className={styles.link}>
-          <img
-            src={getImageUrl('contact/letter.png')}
-            className={styles.img}
-            alt="Letter icon"
-          />
-          <a href="https://covering-letter.vercel.app/">Covering letter</a>
-        </li>
       </ul>
     </footer>
   );
