@@ -11,14 +11,6 @@ export const Contact = () => {
       <ul className={styles.links}>
         <li className={styles.link}>
           <img
-            src={getImageUrl('contact/icon-resume.png')}
-            className={styles.img}
-            alt="Resume icon"
-          />
-          <a href="https://resume-flax-tau.vercel.app/">Resume</a>
-        </li>
-        <li className={styles.link}>
-          <img
             src={getImageUrl('contact/email.png')}
             className={styles.img}
             alt="Email icon"
