@@ -1,0 +1,47 @@
+[
+  {
+    "title": "GreenFrog Office",
+    "imageSrc": "projects/greenfrog.png",
+    "description": "Commercial multi-page website for an accounting and administrative services company in the Czech Republic.",
+    "skills": ["HTML5", "CSS3", "JavaScript", "SEO"],
+    "source": "https://greenfrogoffice.cz"
+  },
+  {
+    "title": "Karmalia",
+    "imageSrc": "projects/karmalia.png",
+    "description": "Interactive divination website: tarot, runes, I Ching, numerology and magic ball. Five languages, animations.",
+    "skills": ["JavaScript", "Vite", "CSS3", "i18n"],
+    "source": "https://karmalia.studiotania.com"
+  },
+  {
+    "title": "LILA Beauty",
+    "imageSrc": "projects/lila.png",
+    "description": "Demo landing page for a beauty salon: services, prices, contacts. Several languages.",
+    "skills": ["JavaScript", "Vite", "CSS3"],
+    "source": "https://lila-beauty-ten.vercel.app"
+  },
+  {
+    "title": "TaskPro",
+    "imageSrc": "projects/todo.png",
+    "description": "Trello-style task manager: boards, columns, cards with priority and deadline, themes. Team project — my part: Welcome page.",
+    "skills": ["React", "Redux", "Node.js", "MongoDB"],
+    "github": "https://github.com/Masenko2604/react-task-pro",
+    "source": "https://react-task-pro-seven.vercel.app"
+  },
+  {
+    "title": "Food Boutique",
+    "imageSrc": "projects/food.png",
+    "description": "Online store of organic food with filters, cart and checkout. Team project — my part: pagination.",
+    "skills": ["JavaScript", "Axios", "REST API"],
+    "github": "https://github.com/Masenko2604/fson-95-project-team_2",
+    "source": "https://masenko2604.github.io/fson-95-project-team_2/"
+  },
+  {
+    "title": "Magic of Photography",
+    "imageSrc": "projects/photo.png",
+    "description": "Responsive landing page for a photography school. Team project — my part: header.",
+    "skills": ["HTML5", "CSS3", "JavaScript"],
+    "github": "https://github.com/Masenko2604/magic-of-photography",
+    "source": "https://magic-of-photography.vercel.app"
+  }
+]

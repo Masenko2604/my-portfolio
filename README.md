@@ -9,6 +9,7 @@ experience, projects and contacts.
 
 - **GreenFrog Office** — commercial website for an accounting company — [greenfrogoffice.cz](https://greenfrogoffice.cz)
 - **Karmalia** — interactive divination website in five languages — [karmalia.studiotania.com](https://karmalia.studiotania.com)
+- **LILA Beauty** — beauty salon landing page — [lila-beauty-ten.vercel.app](https://lila-beauty-ten.vercel.app)
 - **TaskPro** — React task manager (team project) — [live](https://react-task-pro-seven.vercel.app)
 - **Food Boutique** — online food store (team project) — [live](https://masenko2604.github.io/fson-95-project-team_2/)
 - **Magic of Photography** — landing page (team project) — [live](https://magic-of-photography.vercel.app)

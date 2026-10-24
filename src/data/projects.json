@@ -18,7 +18,7 @@
     "imageSrc": "projects/lila.png",
     "description": "Demo landing page for a beauty salon: services, prices, contacts. Several languages.",
     "skills": ["JavaScript", "Vite", "CSS3"],
-    "source": "LILA_LINK"
+    "source": "https://lila-beauty-ten.vercel.app"
   },
   {
     "title": "TaskPro",
