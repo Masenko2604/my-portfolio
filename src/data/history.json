@@ -1,10 +1,21 @@
 [
   {
-    "role": "Fullstack developer",
-    "organization": "GoIT Academia",
+    "role": "Freelance web developer",
+    "organization": "Self-employed",
+    "startDate": "2024",
+    "endDate": "present",
+    "experiences": [
+      "Commercial website GreenFrog Office (greenfrogoffice.cz)",
+      "Multilingual sites, SEO basics, deployment and domains (Vercel, Cloudflare)"
+    ],
+    "imageSrc": "about/about_cursor.png"
+  },
+  {
+    "role": "Fullstack developer (course)",
+    "organization": "GoIT",
     "startDate": "August, 2023",
-    "endDate": "2024",
-    "experiences": ["Three team projects", "Individual project"],
+    "endDate": "June, 2024",
+    "experiences": ["Three team projects", "Individual project", "Certificate ID 28054"],
     "imageSrc": "history/go_it.png"
   },
 
@@ -27,7 +38,7 @@
     "experiences": [
       "Auditing",
       "Personnel Management",
-      "Specialized programs: C1"
+      "Specialized programs: 1C"
     ],
     "imageSrc": "history/ukr_n.png"
   }

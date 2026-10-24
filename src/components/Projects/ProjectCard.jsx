@@ -8,7 +8,7 @@ export const ProjectCard = ({
     <div className={styles.container}>
       <img
         src={getImageUrl(imageSrc)}
-        alt={`Image of ${title}`}
+        alt={`Screenshot of ${title}`}
         className={styles.image}
       />
       <h3 className={styles.title}>{title}</h3>
@@ -23,16 +23,24 @@ export const ProjectCard = ({
         })}
       </ul>
       <div className={styles.links}>
-        <button className={styles.button}>
-          <a href={github} className={styles.link}>
+        {github && (
+          <a
+            href={github}
+            className={styles.link}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             GitHub
           </a>
-        </button>
-        <button className={styles.button}>
-          <a href={source} className={styles.link}>
-            Source
-          </a>
-        </button>
+        )}
+        <a
+          href={source}
+          className={styles.link}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Live
+        </a>
       </div>
     </div>
   );

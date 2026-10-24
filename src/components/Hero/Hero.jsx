@@ -5,14 +5,14 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I&apos;m Tatjana</h1>
+        <h1 className={styles.title}>Hi, I&apos;m Taťjana</h1>
 
-        <h2>I&apos;m a beginner Frontend developer.</h2>
+        <h2>Fullstack Developer · Freelance</h2>
         <p className={styles.description}>
-          Development, practice, and work <br />
-          for the result are important for me.
-          <br /> Reach out if you&apos;d like
-          <br /> to learn more!
+          I create websites and web applications <br />
+          for small businesses and individual clients:
+          <br /> landing pages, business sites and React apps.
+          <br /> Let&apos;s build your project together!
         </p>
 
         <a href="mailto:masyenko@gmail.com" className={styles.contactBtn}>
@@ -21,7 +21,7 @@ export const Hero = () => {
       </div>
       <img
         src={getImageUrl('hero/photo_2025-01-16_13-22-31.jpg')}
-        alt="Hero image of me"
+        alt="Taťjana Masenko"
         className={styles.heroImg}
       />
       <div className={styles.topBlur} />

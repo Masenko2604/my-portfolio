@@ -18,18 +18,16 @@ export const About = () => {
               alt="Cursor icon"
             />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Fullstack Developer</h3>
               <p>
-                Hello! My name is Tatyana. I&apos;m a beginner web developer. I
-                have successfully finished a course at GoIT Academy. During my
-                studies, I actively participated in team projects, which allowed
-                me to develop skills in communication, mutual assistance,
-                discipline, and collaborative programming and enjoy success. I
-                gained experience creating responsive interactive web pages and
-                developing dynamic applications in React and Redux. I am always
-                looking for new opportunities for professional growth and am
-                ready for cooperation. It&apos;s important for me to create
-                products that benefit the user.
+                Hello! My name is Taťjana. I am a Fullstack Developer
+                (GoIT, 2024) and I work as a freelancer. I build responsive
+                websites and web applications with HTML, CSS, JavaScript, React
+                and Node.js — from landing pages to multilingual business
+                sites. I take care of the whole process: layout, clean code,
+                SEO basics, deployment and domain setup. My background in
+                accounting and business management helps me understand what
+                clients really need.
               </p>
             </div>
           </li>
@@ -37,10 +35,11 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl('about/1about.png')} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>Soft Skills</h3>
+              <h3>Working with clients</h3>
               <p>
-                Always ready to learn and gain new experiences, responsible,
-                punctual, and goal - oriented person.
+                Responsible, punctual and goal-oriented. I communicate in
+                Czech, Ukrainian and Russian, and create sites in several
+                languages (CZ, EN, DE, UA, RU).
               </p>
             </div>
           </li>

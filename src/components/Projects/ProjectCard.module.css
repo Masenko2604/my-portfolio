@@ -74,6 +74,10 @@
 
 
 .link {
+  display: inline-block;
+  margin-top: 26px;
+  transition: all 0.2s ease-in-out;
+  box-shadow: 0 6px 8px #6aaeed, 0 -2px 1px #7db2e4;
   text-decoration: none;
   color: var(--color-text);
   font-size: 28px;
