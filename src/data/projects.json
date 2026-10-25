@@ -21,6 +21,13 @@
     "source": "https://lila-beauty-ten.vercel.app"
   },
   {
+    "title": "TORQUE Autoservis",
+    "imageSrc": "projects/torque.png",
+    "description": "Demo website for a car service: animated hero, speedometer stats, gallery carousel, price list and booking form. Four languages: CZ, EN, DE, RU.",
+    "skills": ["HTML5", "CSS3", "JavaScript", "Vite"],
+    "source": "https://torque-autoservis.vercel.app"
+  },
+  {
     "title": "TaskPro",
     "imageSrc": "projects/todo.png",
     "description": "Trello-style task manager: boards, columns, cards with priority and deadline, themes. Team project — my part: Welcome page.",
