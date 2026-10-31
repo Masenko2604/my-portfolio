@@ -33,13 +33,6 @@ export const Contact = () => {
           />
           <a href="https://github.com/Masenko2604">GitHub</a>
         </li>
-        <li className={styles.link}>
-          <img
-            src={getImageUrl('contact/icon-resume.png')}
-            className={styles.img}
-            alt="Resume icon"
-          />
-        </li>
       </ul>
     </footer>
   );
