@@ -39,7 +39,6 @@ export const Contact = () => {
             className={styles.img}
             alt="Resume icon"
           />
-          <a href="https://masenko2604.github.io/resume/">Resume</a>
         </li>
       </ul>
     </footer>
