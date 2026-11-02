@@ -2,7 +2,7 @@
 
 .container {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   gap: 12px;
   flex-direction: column;
   border-radius: 10px;
@@ -10,7 +10,7 @@
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
   width: 380px;
-  height: 670px;
+  min-height: 670px;
   box-shadow: 0 6px 8px #e4edf5, 0 -2px 2px #7db2e4;
 }
 
@@ -59,7 +59,7 @@
 
 .links {
   width: 100%;
-  margin-top: 26px;
+  margin-top: auto;
   display: flex;
   justify-content: space-around;
   padding-bottom: 15px;
