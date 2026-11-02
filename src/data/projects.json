@@ -28,6 +28,13 @@
     "source": "https://torque-autoservis.vercel.app"
   },
   {
+    "title": "CASCADA Mountain Spa",
+    "imageSrc": "projects/cascada.png",
+    "description": "Demo landing page for a mountain spa hotel: online room booking with live price calculation, wellness, rooms, gallery. Four languages: EN, CZ, DE, RU. Accessible (WCAG AA), strict CSP.",
+    "skills": ["HTML5", "CSS3", "JavaScript", "Vite", "Accessibility"],
+    "source": "https://cascada-omega.vercel.app"
+  },
+  {
     "title": "TaskPro",
     "imageSrc": "projects/todo.png",
     "description": "Trello-style task manager: boards, columns, cards with priority and deadline, themes. Team project — my part: Welcome page.",
