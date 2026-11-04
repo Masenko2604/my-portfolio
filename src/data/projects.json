@@ -1,19 +1,7 @@
 [
   {
-    "title": "GreenFrog Office",
-    "imageSrc": "projects/greenfrog.webp",
-    "description": "Commercial website for a real accounting company in the Czech Republic: accounting, tax and company services, contact form with e-mail delivery. Four languages: CZ, EN, UK, RU.",
-    "skills": [
-      "JavaScript",
-      "Vite",
-      "i18next",
-      "EmailJS"
-    ],
-    "source": "https://greenfrogoffice.cz"
-  },
-  {
     "title": "Karmalia",
-    "imageSrc": "projects/karmalia.webp",
+    "imageSrc": "projects/karmalia.png",
     "description": "Interactive divination website: tarot, runes, I Ching, numerology and magic ball. Five languages, animations.",
     "skills": [
       "JavaScript",
@@ -25,7 +13,7 @@
   },
   {
     "title": "LILA Beauty",
-    "imageSrc": "projects/lila.webp",
+    "imageSrc": "projects/lila.png",
     "description": "Demo landing page for a beauty salon: services, prices, gallery, reviews and booking. WebGL effects. Four languages.",
     "skills": [
       "JavaScript",
@@ -37,7 +25,7 @@
   },
   {
     "title": "TORQUE Autoservis",
-    "imageSrc": "projects/torque.webp",
+    "imageSrc": "projects/torque.png",
     "description": "Demo website for a car service: animated hero, speedometer stats, gallery carousel, price list and booking form. Four languages: CZ, EN, DE, RU.",
     "skills": [
       "HTML5",
@@ -49,7 +37,7 @@
   },
   {
     "title": "CASCADA Mountain Spa",
-    "imageSrc": "projects/cascada.webp",
+    "imageSrc": "projects/cascada.png",
     "description": "Demo landing page for a mountain spa hotel: online room booking with live price calculation, wellness, rooms, gallery. Four languages: EN, CZ, DE, RU. Accessible (WCAG AA), strict CSP.",
     "skills": [
       "HTML5",
@@ -62,20 +50,21 @@
   },
   {
     "title": "FUOCO Pizzeria",
-    "imageSrc": "projects/fuoco.webp",
-    "description": "Demo website for a Neapolitan pizzeria: animated hero, menu of 12 pizzas, pizza builder with live price, slide-out cart and demo delivery checkout. Four languages: EN, CZ, DE, RU. Accessible (WCAG AA), strict CSP.",
+    "imageSrc": "projects/fuoco-us.png",
+    "description": "Website for a Neapolitan pizzeria: menu, pizza builder, shopping cart and checkout. Two versions: US (sales tax and tip at checkout) and European (4 languages).",
     "skills": [
-      "HTML5",
-      "CSS3",
       "JavaScript",
       "Vite",
-      "Accessibility"
+      "E-commerce",
+      "i18next"
     ],
-    "source": "https://pizza-umber-six.vercel.app"
+    "source": "https://fuoco-qy5z.vercel.app",
+    "extraLabel": "EU version",
+    "extraSource": "https://pizza-umber-six.vercel.app"
   },
   {
     "title": "TaskPro",
-    "imageSrc": "projects/todo.webp",
+    "imageSrc": "projects/todo.png",
     "description": "Trello-style task manager built with React and Redux: boards, columns, cards with priority and deadline, themes. Team project — my part: Welcome page.",
     "skills": [
       "React",
@@ -87,7 +76,7 @@
   },
   {
     "title": "Magic of Photography",
-    "imageSrc": "projects/photo.webp",
+    "imageSrc": "projects/photo.png",
     "description": "Responsive landing page for a photography school. Team project — my part: header.",
     "skills": [
       "HTML5",

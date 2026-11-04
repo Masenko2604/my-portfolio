@@ -2,7 +2,16 @@ import styles from './ProjectCard.module.css';
 import { getImageUrl } from '../../utils';
 
 export const ProjectCard = ({
-  project: { title, imageSrc, description, skills, github, source },
+  project: {
+    title,
+    imageSrc,
+    description,
+    skills,
+    github,
+    source,
+    extraLabel,
+    extraSource,
+  },
 }) => {
   return (
     <div className={styles.container}>
@@ -10,10 +19,6 @@ export const ProjectCard = ({
         src={getImageUrl(imageSrc)}
         alt={`Screenshot of ${title}`}
         className={styles.image}
-        width="800"
-        height="450"
-        loading="lazy"
-        decoding="async"
       />
       <h3 className={styles.title}>{title}</h3>
       <p className={styles.description}>{description}</p>
@@ -45,6 +50,16 @@ export const ProjectCard = ({
         >
           Live
         </a>
+        {extraSource && (
+          <a
+            href={extraSource}
+            className={styles.link}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {extraLabel || 'Live 2'}
+          </a>
+        )}
       </div>
     </div>
   );
