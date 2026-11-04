@@ -10,6 +10,10 @@ export const ProjectCard = ({
         src={getImageUrl(imageSrc)}
         alt={`Screenshot of ${title}`}
         className={styles.image}
+        width="800"
+        height="450"
+        loading="lazy"
+        decoding="async"
       />
       <h3 className={styles.title}>{title}</h3>
       <p className={styles.description}>{description}</p>

@@ -1,48 +1,48 @@
 [
   {
     "title": "HTML5",
-    "imageSrc": "skills/html.png"
+    "imageSrc": "skills/html.webp"
   },
   {
     "title": "CSS3",
-    "imageSrc": "skills/css.png"
+    "imageSrc": "skills/css.webp"
   },
   {
     "title": "React.js",
-    "imageSrc": "skills/react.png"
+    "imageSrc": "skills/react.webp"
   },
   {
     "title": "Node.js",
-    "imageSrc": "skills/node.png"
+    "imageSrc": "skills/node.webp"
   },
   {
     "title": "JavaScript",
-    "imageSrc": "skills/javascript.png"
+    "imageSrc": "skills/javascript.webp"
   },
   {
     "title": "MongoDB",
-    "imageSrc": "skills/mongo.png"
+    "imageSrc": "skills/mongo.webp"
   },
 
   {
     "title": "TypeScript",
-    "imageSrc": "skills/typescript.png"
+    "imageSrc": "skills/typescript.webp"
   },
   {
     "title": "Next.js",
-    "imageSrc": "skills/next.png"
+    "imageSrc": "skills/next.webp"
   },
   {
     "title": "SASS",
-    "imageSrc": "skills/sass.png"
+    "imageSrc": "skills/sass.webp"
   },
   {
     "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "imageSrc": "skills/figma.webp"
   },
 
   {
     "title": "VITE",
-    "imageSrc": "skills/vite.png"
+    "imageSrc": "skills/vite.webp"
   }
 ]

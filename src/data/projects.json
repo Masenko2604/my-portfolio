@@ -1,7 +1,7 @@
 [
   {
     "title": "GreenFrog Office",
-    "imageSrc": "projects/greenfrog.png",
+    "imageSrc": "projects/greenfrog.webp",
     "description": "Commercial website for a real accounting company in the Czech Republic: accounting, tax and company services, contact form with e-mail delivery. Four languages: CZ, EN, UK, RU.",
     "skills": [
       "JavaScript",
@@ -13,7 +13,7 @@
   },
   {
     "title": "Karmalia",
-    "imageSrc": "projects/karmalia.png",
+    "imageSrc": "projects/karmalia.webp",
     "description": "Interactive divination website: tarot, runes, I Ching, numerology and magic ball. Five languages, animations.",
     "skills": [
       "JavaScript",
@@ -25,7 +25,7 @@
   },
   {
     "title": "LILA Beauty",
-    "imageSrc": "projects/lila.png",
+    "imageSrc": "projects/lila.webp",
     "description": "Demo landing page for a beauty salon: services, prices, gallery, reviews and booking. WebGL effects. Four languages.",
     "skills": [
       "JavaScript",
@@ -37,7 +37,7 @@
   },
   {
     "title": "TORQUE Autoservis",
-    "imageSrc": "projects/torque.png",
+    "imageSrc": "projects/torque.webp",
     "description": "Demo website for a car service: animated hero, speedometer stats, gallery carousel, price list and booking form. Four languages: CZ, EN, DE, RU.",
     "skills": [
       "HTML5",
@@ -49,7 +49,7 @@
   },
   {
     "title": "CASCADA Mountain Spa",
-    "imageSrc": "projects/cascada.png",
+    "imageSrc": "projects/cascada.webp",
     "description": "Demo landing page for a mountain spa hotel: online room booking with live price calculation, wellness, rooms, gallery. Four languages: EN, CZ, DE, RU. Accessible (WCAG AA), strict CSP.",
     "skills": [
       "HTML5",
@@ -62,7 +62,7 @@
   },
   {
     "title": "FUOCO Pizzeria",
-    "imageSrc": "projects/fuoco.png",
+    "imageSrc": "projects/fuoco.webp",
     "description": "Demo website for a Neapolitan pizzeria: animated hero, menu of 12 pizzas, pizza builder with live price, slide-out cart and demo delivery checkout. Four languages: EN, CZ, DE, RU. Accessible (WCAG AA), strict CSP.",
     "skills": [
       "HTML5",
@@ -75,7 +75,7 @@
   },
   {
     "title": "TaskPro",
-    "imageSrc": "projects/todo.png",
+    "imageSrc": "projects/todo.webp",
     "description": "Trello-style task manager built with React and Redux: boards, columns, cards with priority and deadline, themes. Team project — my part: Welcome page.",
     "skills": [
       "React",
@@ -87,7 +87,7 @@
   },
   {
     "title": "Magic of Photography",
-    "imageSrc": "projects/photo.png",
+    "imageSrc": "projects/photo.webp",
     "description": "Responsive landing page for a photography school. Team project — my part: header.",
     "skills": [
       "HTML5",

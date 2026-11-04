@@ -13,7 +13,7 @@ export const Experience = () => {
             return (
               <div key={id} className={styles.skill}>
                 <div className={styles.skillImageContainer}>
-                  <img src={getImageUrl(skill.imageSrc)} alt={skill.title} />
+                  <img src={getImageUrl(skill.imageSrc)} alt={skill.title} loading="lazy" decoding="async" />
                 </div>
                 <p>{skill.title}</p>
               </div>
@@ -24,7 +24,7 @@ export const Experience = () => {
           {services.map((service, id) => {
             return (
               <li key={id} className={styles.historyItem}>
-                <img src={getImageUrl(service.imageSrc)} alt="" />
+                <img src={getImageUrl(service.imageSrc)} alt="" loading="lazy" decoding="async" />
                 <div className={styles.historyItemDetails}>
                   <h3>{service.title}</h3>
                   <ul>

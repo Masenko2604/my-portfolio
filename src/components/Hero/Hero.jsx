@@ -23,6 +23,9 @@ export const Hero = () => {
         src={getImageUrl('hero/tatjana.jpg')}
         alt="Taťjana Masenko"
         className={styles.heroImg}
+        width="640"
+        height="572"
+        fetchPriority="high"
       />
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />

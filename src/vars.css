@@ -2,6 +2,7 @@
   /* colors */
   --color-text: #fff;
   --color-primary: #189CF7FF;
+  --color-button: #0b6bb8; /* buttons: white text on it ≈ 5.5:1 */
   --color-secondary: rgb(6, 65, 136);
   --color-dark: #0b2447;
   --color-bg: #04152d;
