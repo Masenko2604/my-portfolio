@@ -1,39 +1,29 @@
 import styles from './Contact.module.css';
-import { getImageUrl } from '../../utils';
+
+// Link to your Upwork profile. Paste it between the quotes when your profile is ready.
+const UPWORK_URL = '';
 
 export const Contact = () => {
   return (
     <footer id="contact" className={styles.container}>
       <div className={styles.text}>
         <h2 className={styles.name}>Contact</h2>
-        <p>Feel free to reach out!</p>
+        <p>Let&apos;s discuss your project on Upwork!</p>
       </div>
-      <ul className={styles.links}>
-        <li className={styles.link}>
-          <img
-            src={getImageUrl('contact/email.png')}
-            className={styles.img}
-            alt="Email icon"
-          />
-          <a href="mailto:masyenko@gmail.com">masyenko@gmail.com</a>
-        </li>
-        <li className={styles.link}>
-          <img
-            src={getImageUrl('contact/linkedin.png')}
-            className={styles.img}
-            alt="LinkedIn icon"
-          />
-          <a href="https://www.linkedin.com/in/tetyana-masyenko/">Linkedin</a>
-        </li>
-        <li className={styles.link}>
-          <img
-            src={getImageUrl('contact/git.png')}
-            className={styles.img}
-            alt="Github icon"
-          />
-          <a href="https://github.com/Masenko2604">GitHub</a>
-        </li>
-      </ul>
+      <div className={styles.upwork}>
+        {UPWORK_URL ? (
+          <a
+            href={UPWORK_URL}
+            className={styles.upworkBtn}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Write me on Upwork
+          </a>
+        ) : (
+          <span className={styles.upworkBtn}>Write me on Upwork</span>
+        )}
+      </div>
     </footer>
   );
 };
