@@ -9,6 +9,9 @@ experience, projects and contacts.
 
 - **GreenFrog Office** — commercial website for an accounting company — [greenfrogoffice.cz](https://greenfrogoffice.cz)
 - **Karmalia** — interactive divination website in five languages — [karmalia.studiotania.com](https://karmalia.studiotania.com)
+- **FUOCO Pizzeria** — pizzeria website with menu, pizza builder, cart and demo delivery checkout, four languages — [pizza-umber-six.vercel.app](https://pizza-umber-six.vercel.app)
+- **CASCADA Mountain Spa** — spa hotel landing page with online room booking and live price calculation, four languages — [cascada-omega.vercel.app](https://cascada-omega.vercel.app)
+- **TORQUE Autoservis** — car service website with booking form, four languages — [torque-autoservis.vercel.app](https://torque-autoservis.vercel.app)
 - **LILA Beauty** — beauty salon landing page — [lila-beauty-ten.vercel.app](https://lila-beauty-ten.vercel.app)
 - **TaskPro** — React task manager (team project) — [live](https://react-task-pro-seven.vercel.app)
 - **Food Boutique** — online food store (team project) — [live](https://masenko2604.github.io/fson-95-project-team_2/)
