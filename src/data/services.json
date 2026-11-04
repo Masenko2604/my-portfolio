@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Landing pages & business websites",
+    "items": [
+      "Modern responsive design for phone, tablet and desktop",
+      "Contact and booking forms, galleries, price lists",
+      "Fast loading and clean code"
+    ],
+    "imageSrc": "about/about_cursor.png"
+  },
+  {
+    "title": "Multilingual websites",
+    "items": [
+      "Sites in Czech, English, German, Ukrainian and Russian",
+      "Easy language switcher for your visitors"
+    ],
+    "imageSrc": "about/1about.png"
+  },
+  {
+    "title": "Online ordering & booking",
+    "items": [
+      "Menus, shopping cart and order forms",
+      "Room or appointment booking with price calculation"
+    ],
+    "imageSrc": "about/2about.png"
+  },
+  {
+    "title": "SEO basics & launch",
+    "items": [
+      "Meta tags, social previews, search indexing",
+      "Hosting, domain and DNS setup (Vercel, Cloudflare)"
+    ],
+    "imageSrc": "about/about_cursor.png"
+  }
+]
