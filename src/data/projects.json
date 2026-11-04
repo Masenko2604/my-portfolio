@@ -35,6 +35,13 @@
     "source": "https://cascada-omega.vercel.app"
   },
   {
+    "title": "FUOCO Pizzeria",
+    "imageSrc": "projects/fuoco.png",
+    "description": "Demo website for a Neapolitan pizzeria: menu, pizza builder, shopping cart and demo delivery checkout. Four languages.",
+    "skills": ["HTML5", "CSS3", "JavaScript", "Vite", "i18next"],
+    "source": "https://pizza-umber-six.vercel.app"
+  },
+  {
     "title": "TaskPro",
     "imageSrc": "projects/todo.png",
     "description": "Trello-style task manager: boards, columns, cards with priority and deadline, themes. Team project — my part: Welcome page.",
