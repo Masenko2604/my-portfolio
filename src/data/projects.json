@@ -2,14 +2,13 @@
   {
     "title": "GreenFrog Office",
     "imageSrc": "projects/greenfrog.png",
-    "description": "Real client project: multilingual business website for an accounting and company formation firm in the Czech Republic (CZ, EN, UK, RU). SEO, search indexing, hosting on Cloudflare. Contact details on the site belong to the client company.",
+    "description": "Real client project: multilingual business website for an accounting and company formation firm in the Czech Republic (CZ, EN, UK, RU). SEO, search indexing, hosting on Cloudflare. Live link available on request.",
     "skills": [
       "JavaScript",
       "Vite",
       "i18next",
       "SEO"
-    ],
-    "source": "https://greenfrogoffice.cz"
+    ]
   },
   {
     "title": "Karmalia",

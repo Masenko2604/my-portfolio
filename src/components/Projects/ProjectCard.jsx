@@ -42,14 +42,16 @@ export const ProjectCard = ({
             GitHub
           </a>
         )}
-        <a
-          href={source}
-          className={styles.link}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Live
-        </a>
+        {source && (
+          <a
+            href={source}
+            className={styles.link}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Live
+          </a>
+        )}
         {extraSource && (
           <a
             href={extraSource}
