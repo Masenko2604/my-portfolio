@@ -15,17 +15,19 @@ export const Hero = () => {
           <br /> Let&apos;s build your project together!
         </p>
 
-        <a href="#contact" className={styles.contactBtn}>
-          Contact Me
+        <a
+          href="https://www.upwork.com/freelancers/~0101d66379d9a89eda"
+          target="_blank"
+          rel="noopener noreferrer"
+          className={styles.contactBtn}
+        >
+          Hire me on Upwork
         </a>
       </div>
       <img
         src={getImageUrl('hero/tatjana.jpg')}
         alt="Taťjana Masenko"
         className={styles.heroImg}
-        width="640"
-        height="572"
-        fetchPriority="high"
       />
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />

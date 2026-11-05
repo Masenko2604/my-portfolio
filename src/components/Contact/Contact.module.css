@@ -40,7 +40,7 @@
 .upworkBtn {
   display: inline-block;
   text-decoration: none;
-  background-color: #108a00; /* white text ≈ 4.5:1 */
+  background-color: #14a800;
   color: #fff;
   border-radius: 100px;
   font-size: 30px;
@@ -52,7 +52,7 @@
 
 a.upworkBtn:hover,
 a.upworkBtn:focus {
-  background-color: #0b6b00;
+  background-color: #108a00;
 }
 
 .img {
@@ -87,7 +87,7 @@ a.upworkBtn:focus {
     display: block;    
     gap: 10px;
     width: 100%;
-    padding: 40px 6%;
+    padding: auto;
   }
   .text h2{
     font-size: 36px;
